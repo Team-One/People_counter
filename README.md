@@ -1,4 +1,4 @@
-PeopleTrack
+People Counter
 ===========
 This is a TUIO Kinect based people tracker.
 Quartz Composer and TUIO Kinect Plugin are used 
